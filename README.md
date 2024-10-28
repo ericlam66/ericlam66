@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working at Shanghai Medical Colledge of Fudan University
+- 🌱 I’m currently learning artifact intelligence and cardiovascular disease
+- 👯 I’m looking to collaborate with colleagues majoring in computer science et.al
+- 🤔 I’m looking for help with coding, data mining and machine learning
+- 💬 Ask me about knowledge about medicine
+- 📫 How to reach me: 490915362@qq.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love my baby and Duffy Bear
 <!--
 **ericlam66/ericlam66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
